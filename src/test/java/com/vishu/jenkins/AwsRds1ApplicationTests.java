@@ -14,6 +14,7 @@ class AwsRds1ApplicationTests {
 	@Test
 	public void contextLoads() {
 		logger.info("Test case executing...");
+		logger.info("One more test case executing...");
 		assertEquals(true, true);
 	}
 
